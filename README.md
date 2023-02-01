@@ -21,7 +21,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![RPA](https://img.shields.io/badge/-RPA-05122A?style=flat&logo=rpa)&nbsp;
+![Automation Anywhere](https://img.shields.io/badge/-AUTOMATION%20ANYWHERE-05122A?style=flat&logo=automation%20anywhere)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Status
 
